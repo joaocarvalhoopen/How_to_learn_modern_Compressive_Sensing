@@ -84,6 +84,9 @@ Article that has a historical vision of Compressive Sensing and info about the p
    by André Luiz Pilastri, João Manuel R. S. Tavares <br>
    [https://sigarra.up.pt/faup/pt/pub_geral.pub_view?pi_pub_base_id=139664](https://sigarra.up.pt/faup/pt/pub_geral.pub_view?pi_pub_base_id=139664)
 
+4. **Compressive Sensing Resources - Rice University DSP** <br>
+   [https://dsp.rice.edu/cs/](https://dsp.rice.edu/cs/)
+
 
 ## COSAMP method / algorithm - Compressive Sensing by matching pursuit
 
